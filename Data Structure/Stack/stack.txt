@@ -1,0 +1,9 @@
+Stack is a linear data structure which the order LIFO(Last In First Out) or FILO(First In Last Out) for accessing elements. Basic operations of stack are : Push, Pop , Peek
+
+Applications of Stack:
+
+Infix to Postfix Conversion using Stack
+Evaluation of Postfix Expression
+Reverse a String using Stack
+Implement two stacks in an array
+Check for balanced parentheses in an expression

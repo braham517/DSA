@@ -1,0 +1,10 @@
+void reverseArray(int arr[], int start, int end) 
+{ 
+    while (start < end) 
+    { 
+       swap(arr[low],arr[end])
+        start++; 
+        end--; 
+    }  
+}      
+  

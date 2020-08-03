@@ -23,7 +23,6 @@ for(int i=0;i<=n;i++)
 return mx;
 }
 int main() {
-	//code
 	int t;
 	cin>>t;
 	while(t--)
